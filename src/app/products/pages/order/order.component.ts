@@ -46,6 +46,11 @@ export class OrderComponent {
       name: 'Linterna Verde',
       canFly: true,
       color: Color.green
+    },
+    {
+      name: 'Wonder woman',
+      canFly: false,
+      color: Color.red
     }
   ]
 
