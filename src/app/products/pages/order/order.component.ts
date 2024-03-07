@@ -33,11 +33,6 @@ export class OrderComponent {
       color: Color.black
     },
     {
-      name: 'Daredevil',
-      canFly: false,
-      color: Color.red
-    },
-    {
       name: 'Robin',
       canFly: false,
       color: Color.red
